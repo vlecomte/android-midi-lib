@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/vlecomte/android-midi-lib.svg)](https://jitpack.io/#vlecomte/android-midi-lib)
+
 Android MIDI Library
 =============
 
